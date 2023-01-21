@@ -13,7 +13,20 @@ An efficient scatterplot alternative for large datasets
 * <span style="color:Green">No obstruction</span>
 * <span style="color:red">Can be difficult to see edge cases</span>
 
+> More info can be found in the .ipnb file
 
-<table align="left"><tr><td style="text-align:center">Scatter</td><td style="text-align:center">Hist</td><td style="text-align:center">Hist (with gain)</td></tr><tr><td><img src='scatter.png'  style="width:220px;height:200px;"></td><td><img src='hist2.png' style="width:200px;height:200px;"></td><td><img src='hist.png' style="width:200px;height:200px;"></td></tr></table>
+<table align="left">
+  <tr>
+    <td style="text-align:center">Scatter</td>
+    <td style="text-align:center">Hist</td>
+    <td style="text-align:center">Hist (with gain) </td>
+  </tr>
+  <tr>
+    <td><img src='scatter.png'  style="width:220px;height:200px;"></td>
+    <td><img src='hist2.png' style="width:200px;height:200px;"></td>
+    <td><img src='hist.png' style="width:200px;height:200px;"></td>
+  </tr>
+</table>
 
-## More info can be found in the .ipnb file
+
+
